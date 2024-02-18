@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi, I'm Patryk Kostrzewa - Test Engineer 👋
+# Patryk Kostrzewa - Test Engineer 👋
 
 Hi there! I'm aspiring Test Automation Engineer with commercial experience in Manual Testing. I'm still improving my testing skills and I'm looking for more opportunities to work on new projects as Manual / Automation Tester. Here's a snapshot of my skills and expertise:
 
