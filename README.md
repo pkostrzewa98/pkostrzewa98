@@ -43,7 +43,7 @@ Hi there! I'm aspiring Test Automation Engineer with commercial experience in Ma
 While learning I have worked on these two projects:
 
 - [phpTravels](https://github.com/pkostrzewa98/phpTravels): Test automation project for phpTravels site written in Java using Selenium Web Driver and testNG. Project contains four site pages class and six different tests with logger and generated report as html file including screenshots of each step. Project includes ExcelReader to read test data from Excel file.
-- [ShopDemo](https://github.com/pkostrzewa98/ShopDemo): Description of Project 2.
+- [ShopDemo](https://github.com/pkostrzewa98/ShopDemo): Second test automation project for demo ShopPage site written in Java using Selenium Web Driver and testNG. Project contains nine site pages class and five different page tests using customer model class.
 
 Feel free to explore more in my repositories!
 
